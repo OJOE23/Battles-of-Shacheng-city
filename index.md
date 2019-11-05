@@ -56,7 +56,7 @@ We hope that you will read the Privacy Policy (hereinafter referred to as "this 
 
 If you use our services, you agree with what we have stated in this policy. Unless otherwise agreed, the terms used in this policy have the same meaning as those in the Service Agreement.
 
-If you have any questions, please contact us.
+If you have any question, please contact us.
 
 **I. the information we collect**
 
