@@ -1,4 +1,4 @@
-# Hot Passion King Guard
+# Hero's elimination adventure
 
 # Support Infomation
 
@@ -6,13 +6,13 @@
 
 If you have any questions, please contact us at the email address below and we will answer you as soon as possible.
 
-Support email ：HotPassionKingGuard@yeah.net
+Support email ：Heroeliminationadventure@yeah.net
 
 
 
 ## About
 
-**Hot Passion King Guard** 
+**Hero's elimination adventure** 
 
 Hot Passion King Guard Start here and try this simple game.
 
