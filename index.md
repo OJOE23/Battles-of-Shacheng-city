@@ -1,4 +1,4 @@
-# Hero's elimination adventure
+# Fire Dragon City Tok
 
 # Support Infomation
 
@@ -6,15 +6,15 @@
 
 If you have any questions, please contact us at the email address below and we will answer you as soon as possible.
 
-Support email ：Heroeliminationadventure@yeah.net
+Support email ：FireDragonCityTok@yeah.net
 
 
 
 ## About
 
-**Hero's elimination adventure** 
+**Fire Dragon City Tok** 
 
-Hot Passion King Guard Start here and try this simple game.
+Fire Dragon City Tok Start here and try this simple game.
 
 Gameplay: Find the same characters and click on them to complete a elimination. Eliminate all the same characters in the game and pass the level.
 
