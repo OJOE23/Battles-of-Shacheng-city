@@ -1,4 +1,4 @@
-# Fire Dragon City Tok
+# Legend of Triumphal Song
 
 # Support Infomation
 
@@ -6,15 +6,15 @@
 
 If you have any questions, please contact us at the email address below and we will answer you as soon as possible.
 
-Support email ：FireDragonCityTok@yeah.net
+Support email ：LegendofTriumphalSong@yeah.net
 
 
 
 ## About
 
-**Fire Dragon City Tok** 
+**Legend of Triumphal Song** 
 
-Fire Dragon City Tok Start here and try this simple game.
+Legend of Triumphal Song Start here and try this simple game.
 
 Gameplay: Find the same characters and click on them to complete a elimination. Eliminate all the same characters in the game and pass the level.
 
