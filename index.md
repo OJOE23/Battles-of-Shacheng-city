@@ -1,4 +1,4 @@
-# Legend of Triumphal Song
+# Battles of Shacheng city
 
 # Support Infomation
 
@@ -6,15 +6,15 @@
 
 If you have any questions, please contact us at the email address below and we will answer you as soon as possible.
 
-Support email ：LegendofTriumphalSong@yeah.net
+Support email ：BattlesofShachengcity@yeah.net
 
 
 
 ## About
 
-**Legend of Triumphal Song** 
+**Battles of Shacheng city** 
 
-Legend of Triumphal Song Start here and try this simple game.
+Battles of Shacheng city Start here and try this simple game.
 
 Gameplay: Find the same characters and click on them to complete a elimination. Eliminate all the same characters in the game and pass the level.
 
